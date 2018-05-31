@@ -1,0 +1,7 @@
+.Crear una aplicacion de Tienda que venda 3 productos:
+..CD - 1 peso el envio
+..DVD - 2 peso el envio
+..Snacks - 3 peso el envio
+
+El objetivo de la aplicacion es en base a las compras que hizo el cliente deberias calcular el costo de envio,
+cada producto tiene un costo de envio.
